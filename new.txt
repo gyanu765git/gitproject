@@ -1,2 +1,3 @@
 this is text file
 pull and see changes
+third changes in txt file
